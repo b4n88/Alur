@@ -2,3 +2,6 @@
 
 ----
 
+Menggunakan py atau R bebas, yg penting alurnya jelas maungapaian..
+
+Excel juga BTW ahahah
