@@ -1,0 +1,26 @@
+---
+title: "TAHAP EKSPLORASI DATA"
+author: "Albani"
+date: "2024-03-04"
+output: 
+   rmdformats::robobook:
+    code_folding: show
+    code_download: yes
+    self_contained: true
+    lightbox: true
+    default_style: "dark"
+    highlight: NULL
+    use_bookdown: false
+---
+
+oh iya gambar ini gw dapet di Github ikanx101. gw ngefans sm dia hahaha rata rata materi yang ada di sini bersumber dari beliau..
+
+```{r}
+library(knitr)
+```
+
+```{r, warning=FALSE}
+include_graphics("C:/Users/Administrator/Downloads/unnamed-chunk-1-1(1).png")
+```
+
+Jika ada masukan dan tambahan silahakan konfirm ke saya by : al.bani12300@gmail.com yak.. Terimakasih
